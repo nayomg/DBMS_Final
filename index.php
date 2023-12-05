@@ -79,25 +79,25 @@
             <div class="set12">
                 <div class="child">
                     <label for="gradSen">Graduating Seniors</label>
-                    <input type="checkbox" id="gradSen" name="gradSen" >
+                    <input type="checkbox" id="gradSen" name="gradSen" value="Yes">
                     <br>
                     <label for="alum">Alumni</label>
-                    <input type="checkbox" id="alum" name="alum" >
+                    <input type="checkbox" id="alum" name="alum" value="Yes">
                     <br>
                     <label for="parents">Parents</label>
-                    <input type="checkbox" id="parents" name="parents" >
+                    <input type="checkbox" id="parents" name="parents" value="Yes">
                 </div>
 
                 <div class="child">
                     <label for="Faculty">Faculty</label>
-                    <input type="checkbox" id="Faculty" name="Faculty" >
+                    <input type="checkbox" id="Faculty" name="Faculty" value="Yes">
                     <br>
                     <label for="admin">Administrators</label>
-                    <input type="checkbox" id="admin" name="admin" >
+                    <input type="checkbox" id="admin" name="admin" value="Yes">
                     <br>
 
                     <label for=" Corporation">Corporation</label>
-                    <input type="checkbox" id=" Corporation" name="Corporation" >
+                    <input type="checkbox" id=" Corporation" name="Corporation" value="Yes">
 
                 </div>
             </div>
