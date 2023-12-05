@@ -43,7 +43,7 @@
                 <div class="input-box1">
                     <label id="anon" for="anonymous">Please check the box if you would like to be an anonymous
                         donor</label>
-                    <input type="checkbox" id="anonymous" name="anonymous" >
+                    <input type="checkbox" id="anonymous" name="anonymous" value="Yes">
                 </div>
             </div>
             <h4>Address</h4>
